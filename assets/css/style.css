@@ -72,6 +72,9 @@ a{
   font-size: 12px;
   padding: 5px;
 }
+a:hover{
+color: #CCC;
+}
 input[type='submit']{
 background-color: #000000;
 color: #FFFDFD;
