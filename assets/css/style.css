@@ -7,15 +7,18 @@ box-sizing: border-box;
 body{
 background-color:#353C3F;
 font-family: sans-serif;
+overflow-y: hidden;
 }
 
 .container{
   width: 414px;
   height:100vh;
   margin:auto;
-
 }
-
+header{
+text-align: center;
+margin-top:80px;
+}
 h2{
 color: white;
 text-align: center;
